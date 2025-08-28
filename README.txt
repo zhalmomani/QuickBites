@@ -88,10 +88,6 @@ DISCLAIMER:
 5. This template is not intended for e-commerce transactions without proper security implementation.
 6. Form submissions require backend integration for production use.
 
-SUPPORT:
---------
-For any issues or questions regarding this template, please contact:
-support@quickbites.com
 
 VERSION:
 --------
